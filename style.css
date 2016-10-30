@@ -1,4 +1,18 @@
-body {
+.poster * {
+  position: absolute;
+  width: 100%;
+  text-align: center;
+  margin: 1%;
+  bottom: 0;
+}
+
+.logos img {
+  height: 100px;
+  width: 100px;
+}
+
+.poster .logos {
+
 
 }
 
@@ -8,9 +22,10 @@ body {
   background-size: cover;
   width: 640px;/*temp*/
   height: 900px;/*temp*/
-  display: flex;
+  /*display: flex;
   justify-content: center;
-  align-items: flex-end;
+  align-items: flex-end;*/
+  position: relative;
 }
 
 h1 {
@@ -21,6 +36,7 @@ h1 {
 .credit {
   font-family: sf_movie_posterregular;
   color: #fff;
+  font-size: 1.2em;
 }
 
 @font-face {
