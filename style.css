@@ -1,3 +1,16 @@
 body {
-  
+
+}
+
+.poster {
+  background-image: url(img/watchmen_amodif.jpg);
+  background-position: center;
+  background-size: cover;
+  width: 640px;
+  height: 900px;
+}
+
+h1 {
+  color: yellow;
+  display: flex;
 }
