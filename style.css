@@ -16,7 +16,7 @@ body {
 }
 
 .poster {
-  background-image: url(img/watchmen_amodif.jpg);
+  background-image: url(img/watchmen_poster.jpg);
   background-position: center;
   background-size: cover;
   width: 1160px;/*temp*/
@@ -99,18 +99,6 @@ body {
          url('webfontkit_BEBAS/bebas___-webfont.woff') format('woff'),
          url('webfontkit_BEBAS/bebas___-webfont.ttf') format('truetype'),
          url('webfontkit_BEBAS/bebas___-webfont.svg#bebasregular') format('svg');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
-@font-face {
-    font-family: 'dejavu_sanscondensed_bold';
-    src: url('dejavusanscondensed_bold_macroman/DejaVuSansCondensed-Bold-webfont.eot');
-    src: url('dejavusanscondensed_bold_macroman/DejaVuSansCondensed-Bold-webfont.eot?#iefix') format('embedded-opentype'),
-         url('dejavusanscondensed_bold_macroman/DejaVuSansCondensed-Bold-webfont.woff') format('woff'),
-         url('dejavusanscondensed_bold_macroman/DejaVuSansCondensed-Bold-webfont.ttf') format('truetype'),
-         url('dejavusanscondensed_bold_macroman/DejaVuSansCondensed-Bold-webfont.svg#dejavu_sanscondensed_bold') format('svg');
     font-weight: normal;
     font-style: normal;
 
