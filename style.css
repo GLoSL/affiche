@@ -25,6 +25,7 @@ body {
   align-items: center;
   flex-direction: column;
   margin: auto;
+  transform: scale(1.5) translate(0, 350px);
 }
 
 .from {
@@ -62,8 +63,7 @@ body {
 
 .credit {
   font-family: sf_movie_poster_condensedRg;
-  color: #fff;
-  opacity: 0.5;
+  color: #c1c1c1;
   text-align: center;
   width: 130%;
   font-size: 3.5em;
