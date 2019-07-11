@@ -1,5 +1,4 @@
 body {
-  zoom: 37%;
   margin: 0;
 }
 
@@ -25,7 +24,7 @@ body {
   justify-content: flex-end;
   align-items: center;
   flex-direction: column;
-  margin: 0;
+  margin: auto;
 }
 
 .from {
